@@ -1,3 +1,10 @@
+body {
+    font-size: 14px;
+    color: rgba(63, 83, 130, 1);
+    background-color: #fff;
+    letter-spacing: 1px;
+}
+
 .overlay {
     width: 100%;
     height: 100%;
@@ -61,5 +68,10 @@
 
 .aboutImage {
     max-width: 100%;
-    box-shadow: #aaa 0px 3px 5px;
+    box-shadow: 6px 5px 5px 0px rgb(156, 154, 156);
+}
+
+.skillsSection {
+    background-color: rgba(52, 36, 104, 0.8);
+    color: #fff;
 }
