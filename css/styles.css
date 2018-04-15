@@ -52,7 +52,6 @@ body {
     text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
     font-weight: 100;
     letter-spacing: 7px;
-    font: 'Times New Roman';
 }
 
 .titleMessage .main {
@@ -306,4 +305,14 @@ body {
 
 .items {
     padding: 0;
+}
+
+.copyrightSection {
+    background-color: #6777A0;
+    color: #fff;
+    padding: 30px 5px;
+}
+
+.copyrightSection p {
+    margin: 0;
 }
