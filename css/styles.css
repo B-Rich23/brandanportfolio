@@ -70,7 +70,7 @@ body {
 
 .aboutImage {
     max-width: 100%;
-    box-shadow: 6px 5px 5px 0px rgb(156, 154, 156);
+    box-shadow: 8px 7px 7px 0px rgb(156, 154, 156);
 }
 
 .skillsSection,
@@ -78,8 +78,8 @@ body {
    
   background-image:
     linear-gradient(
-      45deg, 
-      #136a8a, #267871
+      72deg, 
+      #1A2980, #26D0CE
     );
     /* background-color: rgba(26, 150, 156, 0.8); */
     color: #fff;
@@ -170,7 +170,8 @@ body {
       45deg, 
       #136a8a, #267871
     ); */
-    color: rgba(26, 150, 156, 1);
+    color: #26D0CE;
+    /* color: rgba(26, 150, 156, 1); */
 }
 
 .contactButton {
@@ -185,7 +186,8 @@ body {
 
 .contactButton:hover {
     text-decoration: none;
-    color: rgba(26, 150, 156, 0.8);
+    color: #4b6cb7;
+    /* color: rgba(26, 150, 156, 0.8); */
     background-color: #fff;
 }
 
@@ -229,7 +231,7 @@ body {
     background-image:
     linear-gradient(
       45deg, 
-      #136a8a, #267871
+      #1A2980, #26D0CE
     );
     /* background-color: rgba(26, 150, 156, 0.8); */
     border-color: rgba(26, 150, 156, 0.8);
