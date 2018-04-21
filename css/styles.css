@@ -162,7 +162,13 @@ body {
     margin: 0;
 }
 
-.squareIcon, .gradient {
+/* .squareIcon,  */
+.fa-gradient {
+    
+	background: -webkit-gradient(linear, left top, left bottom, from(#26D0CE), to(#1A2980));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
     position: absolute;
     left: 50%;
     top: -30px;
@@ -175,7 +181,7 @@ body {
       45deg, 
       #136a8a, #267871
     ); */
-    color: #26D0CE;
+    /* color: #26D0CE; */
     /* color: rgba(26, 150, 156, 1); */
 }
 
