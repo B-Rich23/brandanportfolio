@@ -64,6 +64,10 @@ body {
     font-size: 24px;
 }
 
+#navbarNav a.nav-link {
+    font-size: 16px;
+}
+
 .section {
     padding: 100px 0;
 }
@@ -376,6 +380,7 @@ body {
 
 .copyrightSection p {
     margin: 0;
+    font-size: 16px;
 }
 
 #navigation, .gradient {
